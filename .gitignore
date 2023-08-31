@@ -11,6 +11,9 @@ c-language-ary/
 c-language-stack/
 c-language-str/
 c-language-ptr/
+c-language-func/
+c-language-file/
 c++/
+c-advance-final/
 Data Structure and Advanced C:C++/
 .vscode
